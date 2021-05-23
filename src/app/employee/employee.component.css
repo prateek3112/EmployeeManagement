@@ -1,0 +1,14 @@
+.card :hover{
+    
+    transform: scale(1.005);
+    transition-delay: 0.05s;
+    background-color : #f5cebe;
+    
+    
+}
+
+.mod{
+    color : #114e60;
+    
+    
+}
